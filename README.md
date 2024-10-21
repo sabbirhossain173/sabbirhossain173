@@ -2,7 +2,7 @@
 👀 I’m interested in Java backend development, Elasticsearch, Kafka, and learning more about Spring Boot and Micronaut frameworks.
 🌱 I’m currently learning advanced Java backend development and improving my English language skills.
 💞️ I’m looking to collaborate on Java-based backend projects.
-📫 How to reach me: []
+📫 How to reach me:
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love playing cricket, carrom.
 <!---
